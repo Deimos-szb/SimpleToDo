@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Docker](https://www.docker.com)
 
-## Available Scripts
+## To start app
 
 First of all, to start this app clone (or download) this rep. Then you need install Docker from their site. After you instaled it, run command line (in Windows), cd to folder you clone rep, and run: 
 
